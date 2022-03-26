@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "All Courses",
+        "caption": "All Courses",
+        "slug": "all"
+    },
+    {
+        "id": 1,
+        "name": "Programming",
+        "caption": "Programming Courses",
+        "slug": "programming"
+    },
+    {
+        "id": 2,
+        "name": "UI/UX Design ",
+        "caption": "UI/UX Design Courses",
+        "slug": "ui-ux-design"
+    },
+    {
+        "id": 3,
+        "name": "Web Development",
+        "caption": "Web Development Courses",
+        "slug": "web-development"
+    },
+    {
+        "id": 4,
+        "name": "Business & Economics",
+        "caption": "Business & Economics Courses",
+        "slug": "business"
+    },
+    {
+        "id": 5,
+        "name": "Accounting",
+        "caption": "Accounting Courses",
+        "slug": "accounting"
+    }
+]

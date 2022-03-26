@@ -1,0 +1,306 @@
+[
+    {
+        "id": 1,
+        "category": 1,
+        "slug": "python-0001",
+        "title": "From Zero to Hero in Python",
+        "currency": "TL",
+        "price": 119.99,
+        "specs": [
+            "22 hours of learning",
+            "14 articles",
+            "19 coding exercises",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ],
+        "learning": [
+            {
+                "id": 1,
+                "title": "Learn to use Python professionally, learning both Python 2 and Python 3!"
+            },
+            {
+                "id": 2,
+                "title": "Learn advanced Python features, like the collections module and how to work with timestamps!"
+            },
+            {
+                "id": 3,
+                "title": "Understand complex topics, like decorators."
+            },
+            {
+                "id": 4,
+                "title": "Get an understanding of how to create GUIs in the Jupyter Notebook system!"
+            },
+            {
+                "id": 5,
+                "title": "Learn to use Object Oriented Programming with classes!"
+            },
+            {
+                "id": 6,
+                "title": "Build a complete understanding of Python from the ground up!"
+            }
+        ],
+        "author": "Jim Smith",
+        "description": "Welcome to the - 2022 Complete Python Masterclass™ | Zero to Hero Bootcamp, the very course you will learn to code with Python. With tones of challenges and solutions, projects, this Python course is without a doubt one of the most comprehensive Python programming courses you will ever find. It doesn't matter if you don't have any experience in programming because this course will take you from absolute beginner level to a true Python professional.",
+        "locale": [
+            "Turkish",
+            "English",
+            "German"
+        ],
+        "image": "https://fakeimg.pl/350x200/85C1E9,128/000,255/?text=Python Hero&font=lobster",
+        "updatedAt": "2020-12-11T15:40:35.000Z"
+    },
+    {
+        "id": 2,
+        "category": 2,
+        "slug": "figma-0002",
+        "title": "Figma UI UX Design Essentials",
+        "currency": "TL",
+        "price": 84.99,
+        "specs": [
+            "11 hours of learning",
+            "1 downloadable resource",
+            "Assignments",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ],
+        "learning": [
+            {
+                "id": 1,
+                "title": "How to begin working as a UX Designer using Figma."
+            },
+            {
+                "id": 2,
+                "title": "Build a UX project from beginning to end."
+            },
+            {
+                "id": 3,
+                "title": "What the client expects of you as a UX designer."
+            },
+            {
+                "id": 4,
+                "title": "How to create your own icons, buttons & other UI components."
+            },
+            {
+                "id": 5,
+                "title": "Terms such as Components, Constraints & Multi Dimensional Variants."
+            },
+            {
+                "id": 6,
+                "title": "Learning how to generate code from Figma Project"
+            }
+        ],
+        "author": "Fouad Bergigui",
+        "description": "We’ll use this UI UX design tool to create beautiful User Interfaces and engaging prototypes. Most important we'll cover the client expectations of you as a new UX designer. \n\nThis course is aimed at people new to design, new to User Experience design. Even if you’re not totally sure what UX really means, don’t worry. We’ll start right at the beginning and work our way through step by step.",
+        "locale": [
+            "English",
+            "Turkish"
+        ],
+        "image": "https://fakeimg.pl/350x200/ABEBC6,128/000,255/?text=Figma UX&font=lobster",
+        "updatedAt": "2020-12-11T15:40:35.000Z"
+    },
+    {
+        "id": 3,
+        "category": 4,
+        "slug": "economics_sme-0001",
+        "title": "Understanding Macroeconomics for SMEs",
+        "currency": "TL",
+        "price": 499.85,
+        "specs": [
+            "2.5 hours on-demand video",
+            "26 downloadable resources",
+            "Multiple choice exercises",
+            "Full lifetime access",
+            "Access on mobile and TV",
+            "Certificate of completion"
+        ],
+        "learning": [
+            {
+                "id": 1,
+                "title": "Understand macroeconomics!"
+            },
+            {
+                "id": 2,
+                "title": "Make business decisions informed by knowledge of the state of the macroeconomy"
+            },
+            {
+                "id": 3,
+                "title": "Understand economic policy-making."
+            },
+            {
+                "id": 4,
+                "title": "Apply macroeconomics in small business"
+            },
+            {
+                "id": 5,
+                "title": "Learn macroeconomics analysis tools"
+            },
+            {
+                "id": 6,
+                "title": "Pro and Cons in SMEs"
+            }
+        ],
+        "author": "Carlos Ammous",
+        "description": "People generally have a hard time understanding macroeconomics, but after 7 years of teaching this course at university level, I have mastered the best ways of explaining its concepts for students to be able to understand them and relate them to the real world.",
+        "locale": [
+            "English",
+            "Spanish",
+            "Turkish"
+        ],
+        "image": "https://fakeimg.pl/350x200/ff0000,128/000,255/?text=SME Economics&font=lobster",
+        "updatedAt": "2020-12-11T15:40:35.000Z"
+    },
+    {
+        "id": 4,
+        "category": 1,
+        "slug": "beginning-javascript_001",
+        "title": "Javascript for Beginners",
+        "currency": "TL",
+        "price": 18.99,
+        "specs": [
+            "2.5 hours on-demand video",
+            "1 article",
+            "1 downloadable resource",
+            "6 coding exercises",
+            "Full lifetime access",
+            "Certificate of completion"
+        ],
+        "learning": [
+            {
+                "id": 1,
+                "title": "Extensive, informative and interesting video lecture"
+            },
+            {
+                "id": 2,
+                "title": "Lab Exercises"
+            },
+            {
+                "id": 3,
+                "title": "All Powerpoint Demonstrations Used in Course"
+            },
+            {
+                "id": 4,
+                "title": "Coverage of all important primary Javascript concepts"
+            },
+            {
+                "id": 5,
+                "title": "Complete Code demonstrated in lecture"
+            },
+            {
+                "id": 6,
+                "title": "Instructor contact Email for questions and clarifications"
+            }
+        ],
+        "author": "Jack Brown",
+        "description": "Learn javascript online and supercharge your web design with this Javascript for beginners training course.",
+        "locale": [
+            "English",
+            "Turkish"
+        ],
+        "image": "https://fakeimg.pl/350x200/FFC300,128/000,255/?text=Beginners JS&font=lobster",
+        "updatedAt": "2020-12-11T15:40:35.000Z"
+    },
+    {
+        "id": 5,
+        "category": 3,
+        "slug": "web_design_001",
+        "title": "Web Design for Beginners",
+        "currency": "TL",
+        "price": 200.99,
+        "specs": [
+            "11 hours on-demand video",
+            "51 downloadable resources",
+            "10 downloadable resource",
+            "6 coding exercises",
+            "Full lifetime access",
+            "Certificate of completion"
+        ],
+        "learning": [
+            {
+                "id": 1,
+                "title": "Create any website layout you can imagine"
+            },
+            {
+                "id": 2,
+                "title": "Add tasteful animations and effects with CSS3"
+            },
+            {
+                "id": 3,
+                "title": "Support any device size with Responsive (mobile-friendly) Design"
+            },
+            {
+                "id": 4,
+                "title": "Use common vocabulary from the design industry"
+            },
+            {
+                "id": 5,
+                "title": "Complete Code demonstrated in lecture"
+            },
+            {
+                "id": 6,
+                "title": "Instructor contact Email for questions and clarifications"
+            }
+        ],
+        "author": "Tim Lake",
+        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust.",
+        "locale": [
+            "English",
+            "Turkish",
+            "French"
+        ],
+        "image": "https://fakeimg.pl/350x200/5499C7,128/000,255/?text=Web Design&font=lobster",
+        "updatedAt": "2020-12-11T15:40:35.000Z"
+    },
+    {
+        "id": 6,
+        "category": 1,
+        "slug": "mobile_app_001",
+        "title": "Become an App Designer",
+        "currency": "TL",
+        "price": 800.55,
+        "specs": [
+            "4.5 hours on-demand video",
+            "22 downloadable resources",
+            "10 downloadable resource",
+            "6 coding exercises",
+            "Full lifetime access",
+            "Certificate of completion"
+        ],
+        "learning": [
+            {
+                "id": 1,
+                "title": "Master Sketch to create a strong mobile app design from start to finish"
+            },
+            {
+                "id": 2,
+                "title": "User interface design best practices to solve problems effectively"
+            },
+            {
+                "id": 3,
+                "title": "Understand how to design for different device viewports"
+            },
+            {
+                "id": 4,
+                "title": "How to save tons of time by using shared styles, symbols, and libraries"
+            },
+            {
+                "id": 5,
+                "title": "How a good UI (user interface) influences good UX (user experience)"
+            },
+            {
+                "id": 6,
+                "title": "Advanced techniques and shortcuts to design faster than most professionals"
+            }
+        ],
+        "author": "Mike G.",
+        "description": "Sketch has revolutionized the world of mobile application design by providing the tools to transform yourself into a professional app designer with only a few hours of training. This course will teach you to use the Sketch to design dynamic, development-ready mobile app user interfaces that impress clients and engage users. ",
+        "locale": [
+            "English",
+            "Turkish",
+            "French"
+        ],
+        "image": "https://fakeimg.pl/350x200/AF7AC5,128/000,255/?text=App Design&font=lobster",
+        "updatedAt": "2020-12-11T15:40:35.000Z"
+    }
+]

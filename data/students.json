@@ -1,0 +1,84 @@
+[
+    {
+        "student": {
+            "id": 1,
+            "firstname": "Manny",
+            "lastname": "Laporte",
+            "email": "manfred.laporte@format14crm.com",
+            "phone": "+44 (0) 771265331",
+            "salutation": {
+                "code": "Mr.",
+                "label": "Mr."
+            },
+            "gender": {
+                "code": "Male",
+                "label": "Male"
+            }
+        },
+        "address": {
+            "address": "12 London Road",
+            "city": "London",
+            "postcode": "SW12 4RT",
+            "country": "United Kingdom",
+            "locale": {
+                "code": "en_UK",
+                "label": "English"
+            },
+            "channel": {
+                "code": "Social Media",
+                "label": "Social Media"
+            }
+        },
+        "payment": {
+            "card_type": {
+                "code": "MasterCard",
+                "label": "MasterCard"
+            },
+            "card_name": "Manfred D Laporte",
+            "card_number": "5105 1051 0510 5100",
+            "expiry_date": "12/2025",
+            "security_code": "123"
+        }
+    },
+    {
+        "student": {
+            "id": 2,
+            "firstname": "Arin",
+            "lastname": "Sirel",
+            "email": "manfred.laporte@format14.com",
+            "phone": "464 2175388",
+            "salutation": {
+                "code": "Ms.",
+                "label": "Ms."
+            },
+            "gender": {
+                "code": "Female",
+                "label": "Female"
+            }
+        },
+        "address": {
+            "address": "Kopcullu, 27",
+            "city": "Istanbul",
+            "postcode": "38400",
+            "country": "Turkey",
+            "locale": {
+                "code": "fr_FR",
+                "label": "Francais"
+            },
+            "channel": {
+                "code": "Email",
+                "label": "Email"
+            }
+        },
+        "payment": {
+            "card_type": {
+                "code": "Visa",
+                "label": "Visa"
+            },
+            "card_name": "Arin Sirel",
+            "card_number": "5105 1051 0510 5111",
+            "expiry_date": "12/2022",
+            "security_code": "343"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+.mlFrmFldRequired {
+  @apply text-red-500;
+  @apply text-base;
+  @apply font-semibold;
+}
+
+.mlFrmLabel {
+  @apply inline-block;
+  @apply text-gray-400;
+  @apply text-base;
+  @apply font-medium;
+  @apply pb-1;
+}
+
+.mlFrmValue {
+  @apply border;
+  @apply border-blue-300;
+  @apply rounded-lg;
+  @apply outline-none;
+  @apply text-base;
+  @apply py-3;
+  @apply px-2;
+  @apply placeholder-gray-300;
+}
+
+.mlFrmValue:focus {
+  @apply ring-1 ring-blue-500 ring-inset;
+}
+
+.mlFrmErrorMsg {
+  @apply text-red-500;
+  @apply text-sm;
+  @apply italic;
+  @apply py-2;
+}
